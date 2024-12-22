@@ -30,5 +30,6 @@ jobs:
         with:
           target_branch: snake
           build_dir: dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
