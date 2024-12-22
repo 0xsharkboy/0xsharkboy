@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/snake/snake.svg" alt="Snake animation" />
 </div>
 
 ###
