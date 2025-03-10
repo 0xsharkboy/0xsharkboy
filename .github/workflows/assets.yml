@@ -49,6 +49,7 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           UTC_OFFSET: 2
+          AUTO_PUSH: false
 
       - name: push cards to cards branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
