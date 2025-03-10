@@ -26,7 +26,7 @@ jobs:
 
 
       - name: push snake.svg to the snake branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: snake
           build_dir: dist
@@ -53,7 +53,7 @@ jobs:
           AUTO_PUSH: false
 
       - name: push cards to cards branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           target_branch: cards
           build_dir: profile-summary-card-output
