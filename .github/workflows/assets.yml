@@ -52,7 +52,11 @@ jobs:
           AUTO_PUSH: false
 
       - name: fix README.md
-        run: sed -i 's/main\/profile-summary-card-output/cards/g' ./profile-summary-card-output/README.md
+        run: |
+          sed -i 's/main\/profile-summary-card-output/cards/g' ./profile-summary-card-output/README.md
+          for D in ./profile-summary-card-output/; do
+            sed -i 's/main\/profile-summary-card-output/cards/g' ${D}README.md
+          done
 
       - name: push cards to cards branch
         uses: crazy-max/ghaction-github-pages@v4.1.0
