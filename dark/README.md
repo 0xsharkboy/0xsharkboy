@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/main/profile-summary-card-output/dark/4-productive-time.svg)
+```
+
+    
