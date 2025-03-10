@@ -55,7 +55,9 @@ jobs:
         run: |
           sed -i 's/main\/profile-summary-card-output/cards/g' ./profile-summary-card-output/README.md
           for D in ./profile-summary-card-output/*; do
-            sed -i 's/main\/profile-summary-card-output/cards/g' ${D}/README.md
+            if [ -d "${D}" ]; then
+              sed -i 's/main\/profile-summary-card-output/cards/g' ${D}/README.md
+            fi
           done
 
       - name: push cards to cards branch
