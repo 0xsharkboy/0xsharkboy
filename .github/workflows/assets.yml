@@ -48,9 +48,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "cards"
           UTC_OFFSET: 2
           AUTO_PUSH: false
+
+      - name: fix README.md
+        run: sed -i 's/main\/profile-summary-card-output/cards/g' ./profile-summary-card-output/README.md
 
       - name: push cards to cards branch
         uses: crazy-max/ghaction-github-pages@v4.1.0
