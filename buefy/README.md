@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/buefy/4-productive-time.svg)
+```
+
+    
