@@ -2,10 +2,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&center=true&random=false&width=435&lines=Hey+!+I'm+Achille;Welcome+to+my+profile+!" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/github_dark/3-stats.svg" alt="stats card"  />
-  <img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/github_dark/2-most-commit-language.svg" alt="languages card"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/github_dark/3-stats.svg" style="max-width: 300px; height: auto;" />
+  <img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/github_dark/2-most-commit-language.svg" style="max-width: 300px; height: auto;" />
+</p>
 
 ###
 
