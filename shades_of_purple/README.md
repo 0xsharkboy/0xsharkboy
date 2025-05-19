@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/shades_of_purple/4-productive-time.svg)
+```
+
+    
