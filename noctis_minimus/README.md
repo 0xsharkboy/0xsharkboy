@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/noctis_minimus/4-productive-time.svg)
-```
-
-    
