@@ -1,48 +1,27 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&center=true&random=false&width=435&lines=Hey+!+I'm+Achille;Welcome+to+my+profile+!" alt="Typing SVG" /></a>
-</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/github_dark/3-stats.svg" style="max-width: 300px; height: auto;" />
-  <img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/github_dark/2-most-commit-language.svg" style="max-width: 300px; height: auto;" />
-</p>
+<img src="./assets/terminal.svg" alt="achille@nixos terminal: whoami, neofetch, ls ~/projects and cat ~/.skills.toml" width="100%" />
 
-###
+<br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/c/c-plain.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+<a href="https://0xsharkboy.dev"><img src="https://img.shields.io/badge/0xsharkboy.dev-1a1b26?style=for-the-badge&logo=firefoxbrowser&logoColor=7aa2f7" alt="Website" /></a>
+<a href="mailto:achille@0xsharkboy.dev"><img src="https://img.shields.io/badge/achille@0xsharkboy.dev-1a1b26?style=for-the-badge&logo=protonmail&logoColor=9ece6a" alt="Email" /></a>
+<a href="https://t.me/Oxsharkboy"><img src="https://img.shields.io/badge/@Oxsharkboy-1a1b26?style=for-the-badge&logo=telegram&logoColor=7dcfff" alt="Telegram" /></a>
+<img src="https://img.shields.io/badge/0xsharkboy-1a1b26?style=for-the-badge&logo=discord&logoColor=bb9af7" alt="Discord: 0xsharkboy" />
 
-###
+<br />
+<br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/snake/snake.svg" alt="Snake animation" />
-</div>
+<img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/tokyonight/3-stats.svg" height="170" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/cards/tokyonight/2-most-commit-language.svg" height="170" alt="Most committed languages" />
 
-###
+<br />
+<br />
+
+<img src="https://raw.githubusercontent.com/0xsharkboy/0xsharkboy/snake/snake.svg" alt="Snake eating my contribution graph" width="100%" />
+
+<br />
+
+<sub><code>&lt;/&gt; built on NixOS, btw</code></sub>
 
 </div>
